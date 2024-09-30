@@ -18,4 +18,4 @@ The first cases that I will add, belong to a series of case studies called "8wee
 - [Case #8: Fresh Segments]
 
 ### Data Sources
-The data sets were created in the MySQL environment, with the info available from the individual cases.
+The data sets were created in the MySQL environment, with the info available in each of the cases.
