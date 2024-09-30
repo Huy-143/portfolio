@@ -14,7 +14,7 @@ The first cases that I will add, belong to a series of case studies called "8wee
 - [Case #4: Data Bank](https://8weeksqlchallenge.com/case-study-4/)
 - [Case #5: Data Mart](https://8weeksqlchallenge.com/case-study-5/)
 - [Case #6: Clique Bait](https://8weeksqlchallenge.com/case-study-6/)
-- [Case #7: Balance Tree Clothing Co.](https://8weeksqlchallenge.com/case-study-7/)
+- [Case #7: Balanced Tree Clothing Co.](https://8weeksqlchallenge.com/case-study-7/)
 - [Case #8: Fresh Segments](https://8weeksqlchallenge.com/case-study-8/)
 
 ### Data Sources
