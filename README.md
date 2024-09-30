@@ -9,13 +9,13 @@ The first cases that I will add, belong to a series of case studies called "8wee
 
 ### Table of Contents 
 - [Case #1: Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
-- [Case #2: Pizza Runner]
-- [Case #3: Foodie-Fi]
-- [Case #4: Data Bank]
-- [Case #5: Data Mart]
-- [Case #6: Clique Bait]
-- [Case #7: Balance Tree Clothing Co.]
-- [Case #8: Fresh Segments]
+- [Case #2: Pizza Runner](https://8weeksqlchallenge.com/case-study-2/)
+- [Case #3: Foodie-Fi](https://8weeksqlchallenge.com/case-study-3/)
+- [Case #4: Data Bank](https://8weeksqlchallenge.com/case-study-4/)
+- [Case #5: Data Mart](https://8weeksqlchallenge.com/case-study-5/)
+- [Case #6: Clique Bait](https://8weeksqlchallenge.com/case-study-6/)
+- [Case #7: Balance Tree Clothing Co.](https://8weeksqlchallenge.com/case-study-7/)
+- [Case #8: Fresh Segments](https://8weeksqlchallenge.com/case-study-8/)
 
 ### Data Sources
 The data sets were created in the MySQL environment, with the info available in each of the cases.
