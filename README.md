@@ -8,7 +8,7 @@ The first cases that I will add, belong to a series of case studies called "8wee
 
 
 ### Table of Contents 
-- [Case #1: Danny's Diner]
+- [Case #1: Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
 - [Case #2: Pizza Runner]
 - [Case #3: Foodie-Fi]
 - [Case #4: Data Bank]
