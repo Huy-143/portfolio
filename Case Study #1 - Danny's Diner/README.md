@@ -17,6 +17,6 @@ The query returns the following:
 | C | 36 |
 
 Result: 
-- Customer A spent in total €76 at the Diner
-- Customer B spent in total €74 at the Diner
-- Customer C spent in total €36 at the Diner
+- Customer A spent €76 in total at the Diner
+- Customer B spent €74 in total at the Diner
+- Customer C spent €36 in total at the Diner
