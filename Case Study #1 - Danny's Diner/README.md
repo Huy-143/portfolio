@@ -13,7 +13,7 @@ GROUP BY customer_id
 ```
 
 **Explanation** 
-To answer this question we want the query to return the customer and the amount they have spent. Since the prices are only in the *menu* table I had to join it with the *sales* table. The query ended with the *GROUP BY* function as aggregations require the non aggregated parts to be included here, to avoid ambiguity.
+To answer this question we want the query to return the customer and the amount they have spent. Since the prices are stored in the `menu` table and the actual transactions (e.g., products sold) are in the `sales` table, we need to join these two tables to calculate the total amount spent by each customer. The query ends with the `GROUP BY` function as aggregations require the non aggregated parts to be included here, to avoid ambiguity.
 
 The query returns the following: 
 
